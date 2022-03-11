@@ -1,3 +1,5 @@
 Hola, me llamo Carlos y soy estudiante en Platzi    
 
 Vivo en México, es un país muy bonito.
+
+Hoy hablaremos de su vida.
