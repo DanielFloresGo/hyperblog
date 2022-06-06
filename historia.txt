@@ -1,1 +1,3 @@
-Hola, me llamo Carlos y soy estudiante en Platzi    
+Hola, me llamo Carlos y soy estudiante en Platzi  
+
+Daniel es una persona que contribuye a este proyecto Open Source
